@@ -1,0 +1,23 @@
+[
+    {
+        "id": 101,
+        "name": "Alice Johnson",
+        "role": "Lead Engineer",
+        "skills": ["Python", "AWS", "Docker"],
+        "is_active": true
+    },
+    {
+        "id": 102,
+        "name": "Marcus Chen",
+        "role": "UX Designer",
+        "skills": ["Figma", "CSS", "React"],
+        "is_active": true
+    },
+    {
+        "id": 103,
+        "name": "Sarah Smith",
+        "role": "Data Analyst",
+        "skills": ["SQL", "Tableau", "R"],
+        "is_active": false
+    }
+]
